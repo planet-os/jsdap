@@ -1,0 +1,20 @@
+{
+  "name": "jsdap.js",
+  "version": "0.1.01",
+  "description": "JS wrapper for OPeNDAP",
+  "author": "Planet OS https://planetos.com/",
+  "contributors": [{
+    "name": "Chris Viau",
+    "email": "cviau@planetos.com"
+  }],
+  "main": "jsdap.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/planet-os/jsdap"
+  },
+  "keywords": [
+    "OPeNDAP"
+  ],
+  "browserify": "jsdap.js",
+  "license": "MIT"
+}
